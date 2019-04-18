@@ -1,0 +1,18 @@
+---
+- studentdetails: 
+  - name: nikesh
+    mbl: 9666585300
+    course: dev
+    address:
+     street: 456
+     pin: 506314
+
+  - name: vinay
+    mbl: 8096557300
+    course: CA
+    address:
+     street: 458
+     pin: 506313
+
+
+     
