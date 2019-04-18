@@ -1,0 +1,6 @@
+---
+-hosts: ALL
+ tasks: 
+ -name: ping into the nodes
+  ping:
+  
